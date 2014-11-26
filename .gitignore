@@ -6,6 +6,7 @@
 # Compiled program and configs
 gopic
 gopic.conf
+gopic.yaml
 
 # Vim swap
 .*.sw[opn]
