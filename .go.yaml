@@ -1,0 +1,29 @@
+---
+path: github.com/kinghrothgar/gopic
+deps:
+  - loc: launchpad.net/goyaml
+
+  - loc: https://github.com/bmizerany/pat.git
+    type: git
+    ref: master
+    path: github.com/bmizerany/pat
+
+  - loc: git@github.com:grooveshark/golib.git
+    type: git
+    ref: master
+    path: github.com/grooveshark/golib
+
+  - loc: ssh://hg@bitbucket.org/kardianos/osext
+    type: hg
+    ref: tip
+    path: bitbucket.org/kardianos/osext
+
+  - loc: https://github.com/mediocregopher/flagconfig.git
+    type: git
+    ref: master
+    path: github.com/mediocregopher/flagconfig
+
+  - loc: https://github.com/nfnt/resize.git
+    type: git
+    ref: master
+    path: github.com/nfnt/resize
